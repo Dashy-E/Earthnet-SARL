@@ -1,0 +1,6 @@
+{
+  "name": "Earthnet Solutions Website",
+  "description": "The official multi-language corporate website for Earthnet Solutions SARL, a premier construction and civil engineering company in Lubumbashi, DRC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
